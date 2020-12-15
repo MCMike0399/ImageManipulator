@@ -1,0 +1,10 @@
+#directories
+bower_components
+node_modules
+dist
+dashboard2.0-win32-x64
+streamImages
+
+#files
+*.tgz
+*.log
